@@ -1,0 +1,35 @@
+[
+  {
+    "source": "Code & Data/Data/candidate_pois_with_land_cost.csv",
+    "source_sha256": "0c8f7ef2b75badb5e3075e56b4e924e1553abe81c06eec07cc385a987545e5b7",
+    "packaged": "candidates.csv",
+    "rows": 997,
+    "transformations": [
+      "UTF-8 encoding",
+      "stable row-order ID added",
+      "original columns retained"
+    ]
+  },
+  {
+    "source": "Code & Data/Data/demand_zones_covered_uncovered.csv",
+    "source_sha256": "8eb852982484ec196b0dc8403493fd5d95a7f7b680e8ca8f7b6a37657eda3b05",
+    "packaged": "demand_zones.csv",
+    "rows": 7848,
+    "transformations": [
+      "UTF-8 encoding",
+      "original IDs retained",
+      "original columns retained"
+    ]
+  },
+  {
+    "source": "Code & Data/Data/existing_evcs_hcmc.csv",
+    "source_sha256": "cd36948f49be085bdf3d600163315a3caabaafe609db95b587493b0f98c66c73",
+    "packaged": "existing_stations.csv",
+    "rows": 378,
+    "transformations": [
+      "UTF-8 encoding",
+      "stable row-order ID added",
+      "coordinate headers normalized"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+numpy==2.2.6
+PuLP==3.3.0
+matplotlib==3.10.3
+highspy==1.15.1

@@ -1,0 +1,3 @@
+# Preserve exact processed-input bytes for the SHA-256 reproducibility audit.
+data/* -text
+*.png binary

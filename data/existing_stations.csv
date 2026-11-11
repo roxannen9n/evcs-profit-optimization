@@ -1,0 +1,379 @@
+station_id,Name,latitude,longitude,charger_ports,daily_capacity,ward_name,ward_type
+S0000,Bãi đỗ xe 164 Bùi Quang Là,10.832937,106.64119,2 cổng 60KW | 2 cổng 11KW,46,An Hội Tây,Phường
+S0001,Bãi đỗ xe Gara Tyrex,10.839323,106.637405,4 cổng 60KW | 2 cổng 11KW,86,An Hội Tây,Phường
+S0002,Nhượng quyền SMEV Thanh Hải,10.838975,106.644615,1 cổng 11KW,4,An Hội Tây,Phường
+S0003,Nhượng quyền Standard - Công ty PX,10.85782,106.64753,2 cổng 60KW | 4 cổng 11KW,54,An Hội Tây,Phường
+S0004,Bãi Xe 631/45 Lê Đức Thọ,10.846647,106.667534,12 cổng 60KW | 6 cổng 11KW,257,An Hội Đông,Phường
+S0005,NQ Tư Nhân Nguyễn Độc Lập,10.847361,106.675117,1 cổng 11KW,4,An Hội Đông,Phường
+S0006,Bãi đỗ xe Gara Minh Phương,10.7885,106.729156,1 cổng 30KW | 1 cổng 11KW,13,An Khánh,Phường
+S0007,Công tyTNHH Dịch vụ và Thương mại Đông Sài Gòn,10.790972,106.744194,2 cổng 120KW | 6 cổng 60KW,196,An Khánh,Phường
+S0008,NQ Nguyễn Chính Nhân,10.792109,106.735443,4 cổng 60KW,78,An Khánh,Phường
+S0009,NQ Tư Nhân Nguyễn Công Hoàng,10.798674,106.737587,1 cổng 11KW,4,An Khánh,Phường
+S0010,NQ Tư Nhân Nguyễn Minh Đức,10.789968,106.747322,1 cổng 11KW,4,An Khánh,Phường
+S0011,Nhượng quyền Công ty cổ phần thương mại dịch vụ kỹ thuật Phúc Sang Minh,10.792752,106.746155,2 cổng 11KW,7,An Khánh,Phường
+S0012,Nhượng quyền Fast+ Diệp Thanh Hùng,10.799406,106.748077,1 cổng 30KW,10,An Khánh,Phường
+S0013,Nhượng quyền Lê Duy Nam,10.806176,106.752068,1 cổng 11KW,4,An Khánh,Phường
+S0014,Nhượng quyền Nguyễn Thành Lễ,10.79951,106.743935,1 cổng 7KW,2,An Khánh,Phường
+S0015,Nhượng quyền SMEV Nhuận An,10.792054,106.740509,1 cổng 7KW,2,An Khánh,Phường
+S0016,Vincom Mega Mall Thảo Điền - Trong hầm,10.802531,106.741127,8 cổng 60KW | 2 cổng 30KW | 1 cổng 11KW,180,An Khánh,Phường
+S0017,"Vincom Mega Mall Thảo Điền, bên trái TTTM",10.802531,106.741127,14 cổng 60KW,274,An Khánh,Phường
+S0018,"Vincom Mega Mall Thảo Điền, hầm B2",10.801957,106.74012,54 cổng 60KW | 12 cổng 30KW,1176,An Khánh,Phường
+S0019,Đại lý Ô tô VinFast Đông Sài Gòn,10.811031,106.756042,2 cổng 120KW | 4 cổng 80KW | 4 cổng 60KW | 2 cổng 30KW,281,An Khánh,Phường
+S0020,Bãi đỗ xe tư nhân An Lạc A,10.734263,106.610741,10 cổng 60KW,196,An Lạc,Phường
+S0021,Bãi đỗ xe tư nhân Thái Ngân,10.720472,106.611366,4 cổng 60KW | 1 cổng 11KW,82,An Lạc,Phường
+S0022,Cửa hàng xăng dầu Mỹ Anh,10.72596,106.608803,4 cổng 60KW,78,An Lạc,Phường
+S0023,Nhượng Quyền TN Dương Quốc Trung,10.728937,106.616562,1 cổng 11KW,4,An Lạc,Phường
+S0024,Nhượng quyền Luxury - FGL 16/42 Sinco,10.733596,106.610107,10 cổng 120KW | 8 cổng 60KW,549,An Lạc,Phường
+S0025,Nhượng quyền Luxury - Tư nhân Vũ Thị Anh Hòa,10.720044,106.605354,4 cổng 60KW,78,An Lạc,Phường
+S0026,Nhượng quyền Nhâm Tuyết Vân,10.743283,106.609367,1 cổng 11KW,4,An Lạc,Phường
+S0027,Nhượng quyền TXTX - Huỳnh Trí Tuân,10.741024,106.62149,1 cổng 11KW,4,An Lạc,Phường
+S0028,Nhượng quyền TXTX - Ngô Hoàng Phúc,10.732492,106.609108,1 cổng 11KW,4,An Lạc,Phường
+S0029,Nhượng quyền Trần Đức Thắng,10.743078,106.609383,1 cổng 11KW,4,An Lạc,Phường
+S0030,Nhượng quyền VIP - Tư nhân Lý Bá Đễ,10.752244,106.616821,2 cổng 150KW | 4 cổng 60KW,176,An Lạc,Phường
+S0031,Đại lý Ô tô VinFast An Thái,10.739762,106.61615,2 cổng 120KW | 2 cổng 80KW | 1 cổng 11KW,134,An Lạc,Phường
+S0032,NQ Tư Nhân Nguyễn Trần Khường,10.838993,106.686302,1 cổng 11KW,4,An Nhơn,Phường
+S0033,Bãi đỗ xe 24H - 331 Vườn Lài,10.840087,106.697289,4 cổng 60KW,78,An Phú Đông,Phường
+S0034,Bãi đỗ xe An Phú Đông,10.854646,106.684547,2 cổng 60KW | 4 cổng 11KW,54,An Phú Đông,Phường
+S0035,Bãi đỗ xe Anh Sơn 6,10.840923,106.694817,2 cổng 60KW | 2 cổng 11KW,46,An Phú Đông,Phường
+S0036,Bãi đỗ xe Auto Phúc Nguyên,10.855976,106.685715,2 cổng 60KW | 2 cổng 11KW,46,An Phú Đông,Phường
+S0037,Bãi đỗ xe DBK,10.866554,106.680901,8 cổng 60KW | 2 cổng 11KW,164,An Phú Đông,Phường
+S0038,Bãi đỗ xe FamilyCar,10.838124,106.697212,2 cổng 60KW,39,An Phú Đông,Phường
+S0039,Bãi đỗ xe ISTC Vườn Lài,10.850564,106.693329,22 cổng 60KW | 8 cổng 11KW,460,An Phú Đông,Phường
+S0040,Bãi đỗ xe Minh Phúc,10.899414,106.68959,16 cổng 60KW | 4 cổng 11KW,328,An Phú Đông,Phường
+S0041,Bãi đỗ xe Thu Hiền,10.852999,106.691254,2 cổng 60KW | 2 cổng 11KW,46,An Phú Đông,Phường
+S0042,Bãi đỗ xe tư nhân Anh Nam 2,10.882766,106.681618,4 cổng 60KW,78,An Phú Đông,Phường
+S0043,Bãi đỗ xe tư nhân Số 08,10.8669,106.687302,2 cổng 60KW | 4 cổng 11KW,54,An Phú Đông,Phường
+S0044,Bãi đỗ xe tư nhân Ân An,10.857435,106.68718,2 cổng 60KW | 2 cổng 11KW,46,An Phú Đông,Phường
+S0045,NQ Tư Nhân Lại Tiến Phương,10.861801,106.682701,1 cổng 11KW,4,An Phú Đông,Phường
+S0046,NQ Tư Nhân Quách Thị Thu Hiền,10.863564,106.709106,1 cổng 11KW,4,An Phú Đông,Phường
+S0047,Nhượng Quyền TN Tiêu Trường Hận,10.856213,106.698456,1 cổng 7KW,2,An Phú Đông,Phường
+S0048,Nhượng quyền Hữu Dũng,10.85324,106.689369,1 cổng 11KW,4,An Phú Đông,Phường
+S0049,Nhượng quyền Hữu Long,10.876492,106.68483,1 cổng 11KW,4,An Phú Đông,Phường
+S0050,Nhượng quyền Nguyễn Anh Vũ,10.866729,106.684708,1 cổng 7KW,2,An Phú Đông,Phường
+S0051,Nhượng quyền cá nhân - Thùy Phương,10.849843,106.686356,2 cổng 11KW,7,An Phú Đông,Phường
+S0052,Nhượng quyền cá nhân Giang Công Nục,10.860896,106.695854,1 cổng 11KW,4,An Phú Đông,Phường
+S0053,Trung tâm Hội nghị The Adora Grand View,10.757951,106.667953,4 cổng 60KW,78,An Đông,Phường
+S0054,Bãi đỗ xe Thuận Phát III,10.808849,106.603622,4 cổng 60KW,78,Bình Hưng Hòa,Phường
+S0055,Bãi đỗ xe tư nhân 40/17 Đường Số 7,10.803372,106.600746,4 cổng 60KW | 2 cổng 11KW,86,Bình Hưng Hòa,Phường
+S0056,Bãi đỗ xe tư nhân 68,10.799995,106.611015,8 cổng 80KW | 2 cổng 11KW,216,Bình Hưng Hòa,Phường
+S0057,Nhượng quyền Nguyễn Trung Thành,10.790084,106.612,1 cổng 11KW,4,Bình Hưng Hòa,Phường
+S0058,Nhượng quyền Nguyễn Tống Triển,10.798787,106.601486,1 cổng 11KW,4,Bình Hưng Hòa,Phường
+S0059,Nhượng Quyền TXTX Giang Thanh Tú,10.811234,106.688805,1 cổng 7KW,2,Bình Lợi Trung,Phường
+S0060,Bãi đỗ xe Huỳnh Hiếu Thiện,10.733805,106.632698,2 cổng 60KW | 4 cổng 11KW,54,Bình Phú,Phường
+S0061,Bãi đỗ xe tư nhân Anh Quốc Quận 6,10.734728,106.627594,14 cổng 60KW | 7 cổng 11KW,299,Bình Phú,Phường
+S0062,Nhượng Quyền Tư Nhân Trịnh Công Danh,10.734887,106.631348,1 cổng 11KW,4,Bình Phú,Phường
+S0063,Nhượng quyền Lưu Thanh Tùng,10.744049,106.63546,1 cổng 11KW,4,Bình Phú,Phường
+S0064,Bãi đỗ xe Xanh Tiên Phong,10.823867,106.732712,10 cổng 60KW | 5 cổng 11KW,214,Bình Quới,Phường
+S0065,Bãi đỗ xe tư nhân Sân bóng đá DBL,10.831631,106.742584,18 cổng 60KW | 2 cổng 11KW,360,Bình Quới,Phường
+S0066,Bãi đỗ xe tư nhân Quốc lộ 13 Hồ Chí Minh,10.811754,106.712288,4 cổng 120KW | 26 cổng 60KW,666,Bình Thạnh,Phường
+S0067,Nhượng quyền Dương Minh Nhật,10.80639,106.709656,1 cổng 11KW,4,Bình Thạnh,Phường
+S0068,TTTM Centre Mall Võ Văn Kiệt,10.743387,106.64872,10 cổng 120KW,392,Bình Tiên,Phường
+S0069,Bãi đỗ xe Eco City – Bình Trưng Đông,10.789926,106.784302,6 cổng 60KW | 2 cổng 11KW,125,Bình Trưng,Phường
+S0070,Bãi đỗ xe tư nhân Cô Năm,10.77894,106.772614,2 cổng 80KW | 2 cổng 11KW,59,Bình Trưng,Phường
+S0071,Chung cư Centana,10.79062,106.752098,6 cổng 60KW,118,Bình Trưng,Phường
+S0072,Nhượng quyền Lê Hữu Long,10.784871,106.749474,1 cổng 11KW,4,Bình Trưng,Phường
+S0073,Nhượng quyền SMEV Vạn Hiền,10.791897,106.768692,1 cổng 11KW,4,Bình Trưng,Phường
+S0074,Nhượng quyền Standard - Phan Huy Hoàng,10.782413,106.751152,1 cổng 11KW,4,Bình Trưng,Phường
+S0075,Bãi đỗ xe tư nhân Hương Lộ 2,10.770524,106.597031,4 cổng 60KW | 1 cổng 11KW,82,Bình Trị Đông,Phường
+S0076,Cửa hàng xăng dầu Tuyết Anh,10.76687,106.5998,2 cổng 60KW,39,Bình Trị Đông,Phường
+S0077,NQ Tư Nhân Nguyễn Thanh Hoài,10.765596,106.603371,1 cổng 11KW,4,Bình Trị Đông,Phường
+S0078,NQ VIP TN 40 Chiến Lược,10.760502,106.620453,20 cổng 120KW,784,Bình Trị Đông,Phường
+S0079,Nhượng quyền Fast+ Nguyễn Văn Lâm,10.78483,106.608971,1 cổng 22KW,7,Bình Trị Đông,Phường
+S0080,Nhượng quyền Fast+ Quân Car,10.770531,106.605263,1 cổng 30KW,10,Bình Trị Đông,Phường
+S0081,Nhượng quyền Huỳnh Văn Bòn,10.770441,106.603081,1 cổng 7KW,2,Bình Trị Đông,Phường
+S0082,Nhượng quyền Nguyễn Đình Quyết,10.781119,106.6073,1 cổng 11KW,4,Bình Trị Đông,Phường
+S0083,Nhượng quyền Phan Văn Quý,10.786503,106.605492,1 cổng 11KW,4,Bình Trị Đông,Phường
+S0084,Nhượng quyền SMEV Kim Phát,10.767414,106.621513,1 cổng 7KW,2,Bình Trị Đông,Phường
+S0085,Nhượng quyền SMEV Phú Vĩnh,10.774759,106.612709,1 cổng 11KW,4,Bình Trị Đông,Phường
+S0086,Nhượng quyền SMEV Quốc Dũng,10.778486,106.606903,1 cổng 11KW,4,Bình Trị Đông,Phường
+S0087,Nhượng quyền Thiều Văn Phước,10.765784,106.60643,1 cổng 11KW,4,Bình Trị Đông,Phường
+S0088,Nhượng quyền Võ Trung Chánh,10.77186,106.603752,1 cổng 7KW,2,Bình Trị Đông,Phường
+S0089,Bãi đỗ xe 192 Đường Số 6,10.793824,106.585167,4 cổng 60KW | 4 cổng 11KW,93,Bình Tân,Phường
+S0090,Bãi đỗ xe Gia Bảo,10.801757,106.586548,2 cổng 60KW | 2 cổng 11KW,46,Bình Tân,Phường
+S0091,Bãi đỗ xe Gia Huy,10.772867,106.588486,2 cổng 60KW | 3 cổng 11KW,50,Bình Tân,Phường
+S0092,Bãi đỗ xe Thuận Phát IV,10.815935,106.597237,2 cổng 60KW | 2 cổng 20KW | 1 cổng 11KW | 2 cổng 3KW,58,Bình Tân,Phường
+S0093,Bãi đỗ xe tư nhân Anh Nguyện,10.810367,106.589203,4 cổng 60KW,78,Bình Tân,Phường
+S0094,Bãi đỗ xe tư nhân Cường Thảo,10.795833,106.590546,4 cổng 60KW | 3 cổng 11KW,89,Bình Tân,Phường
+S0095,Cửa hàng xăng dầu Vĩ Phong,10.818939,106.601562,2 cổng 180KW | 4 cổng 60KW,196,Bình Tân,Phường
+S0096,NQ LUX HKD Trạm sạc Mỹ Mỹ,10.807595,106.589424,2 cổng 120KW | 3 cổng 30KW,108,Bình Tân,Phường
+S0097,Nhượng quyền Cty Huỳnh Tuấn Logistics,10.809594,106.594063,2 cổng 11KW,7,Bình Tân,Phường
+S0098,Nhượng quyền Standard _ Showroom VinFast Bình Tân,10.762888,106.583115,1 cổng 30KW,10,Bình Tân,Phường
+S0099,Nhượng quyền Thái Hoàng Diệu,10.797468,106.594749,1 cổng 11KW,4,Bình Tân,Phường
+S0100,Nhượng quyền Đặng Văn Lập,10.789721,106.590324,1 cổng 7KW,2,Bình Tân,Phường
+S0101,NQ Tư Nhân Trần Minh Hoàng,10.749293,106.640472,1 cổng 11KW,4,Bình Tây,Phường
+S0102,"Bãi đỗ xe Tư nhân - Phường 7, Quận 8",10.7098,106.625801,4 cổng 60KW,78,Bình Đông,Phường
+S0103,Bãi đỗ xe tư nhân Trịnh Quang Nghị,10.704577,106.627991,4 cổng 60KW,78,Bình Đông,Phường
+S0104,NQ Tư Nhân CAFÉ A LINH,10.708222,106.616913,1 cổng 11KW,4,Bình Đông,Phường
+S0105,NQ Chi nhánh Âu Cơ – Ô Tô Đông Sài Gòn,10.783567,106.642731,4 cổng 120KW | 1 cổng 30KW,167,Bảy Hiền,Phường
+S0106,Nhượng Quyền TN Phạm Văn Bình,10.784746,106.643784,1 cổng 11KW,4,Bảy Hiền,Phường
+S0107,Vinfast Đông Sài Gòn 2,10.805509,106.651947,4 cổng 60KW,78,Bảy Hiền,Phường
+S0108,Bãi đỗ xe Tạ Quang Bửu,10.739148,106.6745,10 cổng 60KW | 2 cổng 11KW,203,Chánh Hưng,Phường
+S0109,NQ LUX Phạm Đăng Khoa,10.734,106.666298,4 cổng 60KW,78,Chánh Hưng,Phường
+S0110,Nhượng quyền TXTX - Phạm Duy Hoàn,10.748346,106.688919,1 cổng 22KW,7,Chánh Hưng,Phường
+S0111,Nhượng quyền Trần Thiên Trường,10.740827,106.669762,1 cổng 7KW,2,Chánh Hưng,Phường
+S0112,Nhượng quyền Đỗ Thành Chung,10.754298,106.656525,1 cổng 11KW,4,Chợ Lớn,Phường
+S0113,Bãi đỗ xe Nguyễn Văn Út,10.776519,106.769211,2 cổng 60KW | 2 cổng 11KW,46,Cát Lái,Phường
+S0114,NQ LUX Trần Lưu Quang Tùng,10.770938,106.792305,4 cổng 120KW,157,Cát Lái,Phường
+S0115,NQ Tư Nhân Nguyễn Phương Nam,10.779455,106.765152,1 cổng 7KW,2,Cát Lái,Phường
+S0116,NQ VIP Thạnh Mỹ Lợi,10.774861,106.751053,2 cổng 120KW,78,Cát Lái,Phường
+S0117,Nhượng quyền - Công ty TNHH Dịch vụ và Thương mại Đông Sài Gòn - Số 2,10.767897,106.783104,2 cổng 120KW | 8 cổng 60KW,235,Cát Lái,Phường
+S0118,Nhượng quyền - D1 Showroom VinFast Đồng Văn Cống,10.773502,106.763222,4 cổng 60KW,78,Cát Lái,Phường
+S0119,Nhượng quyền Bùi Quý Long,10.777692,106.764893,1 cổng 11KW,4,Cát Lái,Phường
+S0120,Nhượng quyền Chu Việt Hùng,10.77521,106.753304,1 cổng 11KW,4,Cát Lái,Phường
+S0121,Nhượng quyền Luxury - Lâm Thiên Hoàng,10.772015,106.786217,4 cổng 60KW | 1 cổng 11KW,82,Cát Lái,Phường
+S0122,Nhượng quyền Lê Hoàng,10.781247,106.765877,1 cổng 30KW | 2 cổng 11KW,17,Cát Lái,Phường
+S0123,Bãi đỗ xe tư nhân Thiên Ân 2,10.846282,106.67601,4 cổng 60KW | 1 cổng 11KW,82,Gò Vấp,Phường
+S0124,Nhượng quyền Nguyễn Thị Thanh,10.83824,106.66758,1 cổng 7KW,2,Gò Vấp,Phường
+S0125,Nhượng quyền công ty CNC Năng lượng Mặt trời G7,10.831583,106.676025,1 cổng 11KW,4,Gò Vấp,Phường
+S0126,Vincom Plaza Quang Trung - Bên trái TTTM,10.82907,106.672897,1 cổng 250KW | 2 cổng 180KW,199,Gò Vấp,Phường
+S0127,Vincom Plaza Quang Trung - Hầm B3,10.829282,106.672585,2 cổng 30KW | 2 cổng 11KW,27,Gò Vấp,Phường
+S0128,"Vincom Plaza Quang Trung, bãi xe ngoài trời",10.829593,106.672127,12 cổng 60KW,235,Gò Vấp,Phường
+S0129,Bãi đỗ xe Hợp tác xã Quốc Bảo,10.842945,106.726662,6 cổng 60KW | 1 cổng 11KW,121,Hiệp Bình,Phường
+S0130,Bãi đỗ xe Sao Vàng,10.853766,106.722954,4 cổng 150KW | 16 cổng 60KW,509,Hiệp Bình,Phường
+S0131,Bãi đỗ xe tư nhân Đường số 19,10.823714,106.720955,8 cổng 60KW,157,Hiệp Bình,Phường
+S0132,Cửa hàng xăng dầu số 2,10.831089,106.725533,2 cổng 120KW | 10 cổng 60KW,274,Hiệp Bình,Phường
+S0133,NQ VIP HKD Không gian xanh 01,10.853196,106.72097,8 cổng 120KW,313,Hiệp Bình,Phường
+S0134,NQ VIP HKD Không gian xanh 02,10.853194,106.721069,22 cổng 60KW,431,Hiệp Bình,Phường
+S0135,Nhượng quyền - Nguyễn Hải Tuấn,10.848972,106.721664,2 cổng 11KW,7,Hiệp Bình,Phường
+S0136,Nhượng quyền Phan Anh Hải,10.842841,106.707314,1 cổng 11KW,4,Hiệp Bình,Phường
+S0137,Nhượng quyền Tư Nhân Trịnh Bá Hiếu,10.855092,106.725189,1 cổng 11KW,4,Hiệp Bình,Phường
+S0138,Nhượng quyền Tư nhân - Mai Quyết Thành,10.839166,106.730057,1 cổng 11KW,4,Hiệp Bình,Phường
+S0139,Nhượng quyền VIP - Công ty Việt Hàn Số 01,10.841496,106.717117,2 cổng 150KW | 2 cổng 60KW,137,Hiệp Bình,Phường
+S0140,Nhượng quyền VIP - Công ty Việt Hàn Số 02,10.838001,106.716591,4 cổng 120KW | 6 cổng 60KW,274,Hiệp Bình,Phường
+S0141,Nhượng quyền cá nhân - Trần Nam Ý,10.838811,106.704514,1 cổng 11KW,4,Hiệp Bình,Phường
+S0142,"Showroom Thế giới di động - Số 613, Quốc lộ 13",10.852937,106.721283,2 cổng 60KW,39,Hiệp Bình,Phường
+S0143,Nhượng quyền SMEV Hoài Lê,10.777379,106.672348,1 cổng 11KW,4,Hòa Hưng,Phường
+S0144,Nhượng quyền - Công ty TNHH Coffeevie,10.817044,106.682358,1 cổng 22KW,7,Hạnh Thông,Phường
+S0145,Nhượng quyền TXTX - Nguyễn Anh Tuấn,10.833109,106.682182,1 cổng 7KW,2,Hạnh Thông,Phường
+S0146,Nhượng quyền Tư nhân - Đỗ Hùng Cường,10.818336,106.682831,1 cổng 11KW,4,Hạnh Thông,Phường
+S0147,Trung tâm Hội nghị The Adora,10.816265,106.677811,4 cổng 60KW,78,Hạnh Thông,Phường
+S0148,Vincom Plaza Phan Văn Trị,10.826537,106.689293,20 cổng 60KW,392,Hạnh Thông,Phường
+S0149,Vincom Plaza Phan Văn Trị - Hầm B1,10.827084,106.68924,5 cổng 11KW,18,Hạnh Thông,Phường
+S0150,Vincom Plaza Phan Văn Trị - Sảnh chính,10.826537,106.689293,12 cổng 60KW,235,Hạnh Thông,Phường
+S0151,NQ Tư Nhân Phú An Hưng,10.758805,106.700058,1 cổng 11KW,4,Khánh Hội,Phường
+S0152,Bãi đỗ xe Co-op Xtra Linh Trung,10.868684,106.776596,4 cổng 60KW,78,Linh Xuân,Phường
+S0153,Bãi đỗ xe Khu dân cư ARECO,10.864778,106.760391,2 cổng 60KW,39,Linh Xuân,Phường
+S0154,Bãi đỗ xe Linh Xuân - Thủ Đức,10.876396,106.777061,6 cổng 80KW | 3 cổng 11KW,168,Linh Xuân,Phường
+S0155,Bãi đỗ xe tư nhân A74,10.858645,106.787422,6 cổng 60KW | 4 cổng 11KW,132,Linh Xuân,Phường
+S0156,Bệnh viện Đa khoa Quốc tế Hoàn Mỹ Thủ Đức,10.887127,106.77375,4 cổng 60KW,78,Linh Xuân,Phường
+S0157,Nhượng quyền EV-LCC68,10.86326,106.757378,1 cổng 11KW,4,Linh Xuân,Phường
+S0158,Nhượng quyền tư nhân Việt Hùng,10.8568,106.768242,1 cổng 11KW,4,Linh Xuân,Phường
+S0159,Bãi đỗ xe Nguyễn Xiển,10.856734,106.835114,6 cổng 60KW | 4 cổng 11KW,132,Long Bình,Phường
+S0160,"BĐX Chung cư Vinhomes và Grand Park PK1, giữa Tòa S2- Tòa S3",10.838885,106.832909,14 cổng 60KW,274,Long Bình,Phường
+S0161,"Chung cư Vinhomes Grand Park 3 ,Tòa S3",10.838648,106.834991,3 cổng 11KW,11,Long Bình,Phường
+S0162,"Chung cư Vinhomes Grand Park 4, Tòa S5",10.838388,106.834305,3 cổng 11KW,11,Long Bình,Phường
+S0163,"Chung cư Vinhomes Grand Park,Tòa S1",10.838642,106.831726,3 cổng 11KW,11,Long Bình,Phường
+S0164,"Chung cư Vinhomes và Grand Park 1, Tòa S2",10.837055,106.830177,3 cổng 11KW,11,Long Bình,Phường
+S0165,GSM Grand Park - Thủ Đức 1,10.83788,106.838501,6 cổng 180KW | 48 cổng 60KW,1293,Long Bình,Phường
+S0166,Khách Sạn Little Sài Gòn - Thủ Đức,10.87549,106.818398,2 cổng 11KW,7,Long Bình,Phường
+S0167,Nhượng Quyền SMEV Quang Thắng,10.844927,106.819138,1 cổng 7KW,2,Long Bình,Phường
+S0168,Nhượng Quyền TN Fast+ - T1302 Vinhomes Grand Park,10.834493,106.839371,1 cổng 30KW | 1 cổng 11KW,13,Long Bình,Phường
+S0169,Nhượng quyền - Vinhomes Grand Park Depot Vinbus,10.845688,106.84317,6 cổng 180KW,353,Long Bình,Phường
+S0170,Vincom Mega Mall Grand Park - Khu 1,10.84349,106.8423,1 cổng 250KW | 10 cổng 150KW | 52 cổng 60KW | 114 cổng 11KW,2000,Long Bình,Phường
+S0171,Vinhome Grand Park - Khu 4,10.839926,106.848076,1 cổng 250KW | 18 cổng 60KW,434,Long Bình,Phường
+S0172,Vinhomes Grand Park - Bãi đỗ xe sân tập Golf,10.842665,106.842049,14 cổng 60KW | 1 cổng 11KW,278,Long Bình,Phường
+S0173,"Vinhomes Grand Park - Lô B1, toà GH6-GH5",10.84671,106.842194,21 cổng 11KW,75,Long Bình,Phường
+S0174,"Vinhomes Grand Park - Lô B3, Phân khu 3",10.844296,106.841599,22 cổng 11KW,79,Long Bình,Phường
+S0175,"Vinhomes Grand Park - Lô B4, Phân khu 4",10.844463,106.845482,26 cổng 11KW,93,Long Bình,Phường
+S0176,Vinhomes Grand Park - Thương mại dịch vụ Broadway,10.837367,106.839943,12 cổng 60KW,235,Long Bình,Phường
+S0177,Vinhomes Grand Park Phân khu 3 Hầm B2-Tòa BS12,10.847257,106.844322,88 cổng 11KW,316,Long Bình,Phường
+S0178,"Vinhomes Grand Park, Phân khu 2, Tòa S10.05",10.846689,106.839584,3 cổng 11KW,11,Long Bình,Phường
+S0179,"Vinhomes Grand Park, Phân khu 2, Tòa S6",10.84433,106.838188,9 cổng 11KW,32,Long Bình,Phường
+S0180,"Vinhomes Grand Park, Phân khu 2, Tòa S7",10.843006,106.836632,8 cổng 11KW,29,Long Bình,Phường
+S0181,"Vinhomes Grand Park, Phân khu 2, Tòa S8",10.843926,106.836357,3 cổng 11KW,11,Long Bình,Phường
+S0182,"Vinhomes Grand Park, Phân khu 2, Tòa S9",10.845657,106.837021,6 cổng 11KW,22,Long Bình,Phường
+S0183,"Vinhomes Grand Park, hầm B2- Tòa S1",10.846689,106.839584,32 cổng 11KW,115,Long Bình,Phường
+S0184,"Vinhomes Grand Park, hầm B2-Tòa S2",10.846689,106.839584,30 cổng 11KW,108,Long Bình,Phường
+S0185,"Vinhomes Grand Park, hầm B2-Tòa S3",10.846689,106.839584,22 cổng 11KW,79,Long Bình,Phường
+S0186,"Vinhomes Grand Park, hầm B2-Tòa S5",10.846689,106.839584,14 cổng 11KW,50,Long Bình,Phường
+S0187,"Vinhomes Grand Park, khu 10",10.836329,106.842247,54 cổng 60KW | 4 cổng 11KW,1072,Long Bình,Phường
+S0188,"Vinhomes Grand Park, khu 12",10.83949,106.844749,26 cổng 60KW | 31 cổng 11KW,621,Long Bình,Phường
+S0189,"Vinhomes Grand Park,Phân khu 2,Tòa S10.07",10.844322,106.839157,3 cổng 11KW,11,Long Bình,Phường
+S0190,Bãi đỗ xe tư nhân 322 Long Thuận,10.811848,106.858208,12 cổng 80KW | 5 cổng 11KW,331,Long Phước,Phường
+S0191,Bãi đỗ xe tư nhân Đông Thăng Long,10.817053,106.820892,4 cổng 60KW | 2 cổng 11KW,86,Long Phước,Phường
+S0192,Cửa hàng xăng dầu Số 1 Lò Lu,10.824829,106.810776,4 cổng 60KW,78,Long Phước,Phường
+S0193,GSM Grand Park - Thủ Đức 2 (Vinbus),10.78781,106.843269,4 cổng 180KW | 26 cổng 60KW,744,Long Phước,Phường
+S0194,Bãi đỗ xe 882,10.787583,106.797997,4 cổng 60KW | 2 cổng 11KW,86,Long Trường,Phường
+S0195,Bãi đỗ xe 9/1 Võ Văn Hát,10.821893,106.806892,2 cổng 60KW | 2 cổng 11KW,46,Long Trường,Phường
+S0196,Bãi đỗ xe Khu dân cư Đại Học Bách Khoa,10.794983,106.787781,12 cổng 80KW | 3 cổng 11KW,324,Long Trường,Phường
+S0197,Bãi đỗ xe Phú Hữu,10.789646,106.802017,6 cổng 60KW,118,Long Trường,Phường
+S0198,Bãi đỗ xe công ty AZC 3,10.786766,106.792061,10 cổng 60KW | 10 cổng 11KW,232,Long Trường,Phường
+S0199,Bãi đỗ xe tư nhân Bưng Ông Thoàn,10.8095,106.797798,4 cổng 60KW | 2 cổng 11KW,86,Long Trường,Phường
+S0200,Bãi đỗ xe tư nhân Long Trường,10.804992,106.819931,4 cổng 60KW | 5 cổng 11KW,96,Long Trường,Phường
+S0201,Bãi đỗ xe tư nhân Tam Đa,10.80755,106.828903,4 cổng 60KW | 4 cổng 11KW,93,Long Trường,Phường
+S0202,Cafe Sông Trăng,10.792388,106.781998,4 cổng 60KW,78,Long Trường,Phường
+S0203,"Chung cư Sky 9, CT1",10.804283,106.790054,2 cổng 11KW,7,Long Trường,Phường
+S0204,"Chung cư Sky 9, hầm B1- CT3",10.804483,106.791283,3 cổng 11KW,11,Long Trường,Phường
+S0205,Chung cư The Eastern,10.805476,106.796692,2 cổng 30KW | 2 cổng 11KW,27,Long Trường,Phường
+S0206,Cửa hàng xăng dầu Long Trường,10.80654,106.816704,4 cổng 60KW,78,Long Trường,Phường
+S0207,"Cửa hàng xăng dầu PVOIL Phú Hữu, Thủ Đức",10.80351,106.791969,2 cổng 180KW | 2 cổng 60KW,157,Long Trường,Phường
+S0208,Cửa hàng xăng dầu PVOIL TI Long Trường,10.79998,106.809998,2 cổng 180KW,118,Long Trường,Phường
+S0209,NQ Tư Nhân Sử Thanh Trà,10.818367,106.797966,1 cổng 11KW,4,Long Trường,Phường
+S0210,Nhượng quyền Lê Hoàng Vũ,10.79988,106.807457,1 cổng 11KW,4,Long Trường,Phường
+S0211,Nhượng quyền Nguyễn Lương Bằng,10.806967,106.801704,1 cổng 7KW,2,Long Trường,Phường
+S0212,Nhượng quyền Ninh Thị Minh Nguyệt,10.797692,106.817245,1 cổng 7KW,2,Long Trường,Phường
+S0213,Nhượng quyền Tư Nhân Diệp Duy Lam,10.80888,106.79348,1 cổng 11KW,4,Long Trường,Phường
+S0214,Nhượng quyền cá nhân - Lê Hoàng Nhân,10.800391,106.788361,1 cổng 7KW,2,Long Trường,Phường
+S0215,Chung cư Summer Square,10.759487,106.625771,3 cổng 11KW,11,Phú Lâm,Phường
+S0216,Nhượng quyền Nguyễn Hoàng Tú,10.756117,106.628082,1 cổng 11KW,4,Phú Lâm,Phường
+S0217,Nhượng quyền Trần Việt Dũng,10.751194,106.624527,1 cổng 11KW,4,Phú Lâm,Phường
+S0218,Bãi đỗ xe Cty TyreZone,10.713585,106.741112,8 cổng 60KW | 6 cổng 11KW,178,Phú Thuận,Phường
+S0219,Bãi đỗ xe tư nhân Phú Nhuận,10.72678,106.737625,4 cổng 60KW | 1 cổng 11KW,82,Phú Thuận,Phường
+S0220,Nhượng quyền Nguyễn Nam Khánh,10.732374,106.735382,1 cổng 7KW,2,Phú Thuận,Phường
+S0221,Nhượng quyền Nguyễn Đức Huy,10.732427,106.735954,1 cổng 7KW,2,Phú Thuận,Phường
+S0222,Nhượng quyền TXTX - Phạm Nguyễn Ngọc Ánh,10.730704,106.734657,1 cổng 11KW,4,Phú Thuận,Phường
+S0223,SR MWG ĐML 677 Huỳnh Tấn Phát,10.737484,106.730865,2 cổng 60KW,39,Phú Thuận,Phường
+S0224,Bãi đỗ xe 24G,10.764752,106.63089,2 cổng 60KW | 2 cổng 11KW,46,Phú Thạnh,Phường
+S0225,Bãi đỗ xe tư nhân Trần Thị Báo,10.768788,106.626495,16 cổng 60KW | 4 cổng 11KW,328,Phú Thạnh,Phường
+S0226,Trung tâm Hội nghị Le DONG PHUONG 3,10.762754,106.632042,2 cổng 180KW,118,Phú Thạnh,Phường
+S0227,Nhượng quyền SMEV Xuân Phương,10.762986,106.657669,1 cổng 7KW,2,Phú Thọ,Phường
+S0228,Nhượng Quyền TXTX Nguyễn Ngọc Hải,10.789292,106.635567,1 cổng 7KW,2,Phú Thọ Hòa,Phường
+S0229,Nhượng Quyền Tư Nhân Nguyễn Văn Linh,10.784449,106.627449,1 cổng 11KW,4,Phú Thọ Hòa,Phường
+S0230,Nhượng quyền Trần Đình Văn,10.797105,106.614548,1 cổng 11KW,4,Phú Thọ Hòa,Phường
+S0231,NQ Platform - Lưu Thanh Đạt,10.736111,106.640968,1 cổng 11KW,4,Phú Định,Phường
+S0232,NQ TXTX Đinh Triệu Hùng,10.746656,106.65892,1 cổng 7KW,2,Phú Định,Phường
+S0233,Nhượng quyền Dư Minh Đông,10.712446,106.61216,1 cổng 30KW,10,Phú Định,Phường
+S0234,Nhượng quyền Luxury - Hộ kinh doanh Châu Thắng,10.7249,106.625298,4 cổng 120KW | 4 cổng 60KW,235,Phú Định,Phường
+S0235,Nhượng quyền Lưu Chí Tâm,10.717344,106.629913,1 cổng 11KW,4,Phú Định,Phường
+S0236,Bãi đỗ xe tư nhân D3B,10.808735,106.783264,8 cổng 80KW | 4 cổng 11KW,223,Phước Long,Phường
+S0237,Gara Linh Vy Auto,10.814736,106.776505,2 cổng 60KW | 2 cổng 11KW,46,Phước Long,Phường
+S0238,Nhượng Quyền TN SMEV Ánh Sương,10.817414,106.787064,1 cổng 7KW,2,Phước Long,Phường
+S0239,Nhượng Quyền Vũ Thị Hoài Thu,10.80837,106.779587,1 cổng 11KW,4,Phước Long,Phường
+S0240,Nhượng quyền Cty LINKMAX,10.806582,106.78537,1 cổng 11KW,4,Phước Long,Phường
+S0241,Nhượng quyền Nguyễn Tất Trung,10.815445,106.780319,1 cổng 11KW,4,Phước Long,Phường
+S0242,Nhượng quyền Triệu Ánh Ngọc,10.808476,106.779671,1 cổng 30KW,10,Phước Long,Phường
+S0243,Nhượng quyền VIP - Phước Long B,10.801972,106.78569,8 cổng 60KW,157,Phước Long,Phường
+S0244,Nhượng quyền Đinh Thị Quyến,10.816101,106.767136,1 cổng 11KW,4,Phước Long,Phường
+S0245,Bãi đỗ xe Công ty SAFi,10.78683,106.696068,2 cổng 60KW,39,Sài Gòn,Phường
+S0246,Chung cư Vinhomes Golden River 1,10.787087,106.710907,3 cổng 11KW,11,Sài Gòn,Phường
+S0247,Chung cư Vinhomes Golden River 2,10.786341,106.709595,3 cổng 11KW,11,Sài Gòn,Phường
+S0248,Tòa nhà SFC,10.787862,106.699974,2 cổng 60KW | 1 cổng 11KW,43,Sài Gòn,Phường
+S0249,Vincom Center Đồng Khởi - Hầm B5,10.778729,106.701744,4 cổng 60KW | 2 cổng 30KW | 4 cổng 11KW,112,Sài Gòn,Phường
+S0250,"Vincom Center Đồng Khởi, Hầm B6",10.778628,106.701775,2 cổng 80KW | 24 cổng 60KW | 9 cổng 30KW | 2 cổng 11KW,618,Sài Gòn,Phường
+S0251,Bãi đỗ xe Hoàng Sơn,10.855089,106.74028,10 cổng 60KW | 3 cổng 11KW,207,Tam Bình,Phường
+S0252,Bãi đỗ xe tư nhân Ngô Chí Quốc,10.873924,106.727982,8 cổng 60KW | 2 cổng 11KW,164,Tam Bình,Phường
+S0253,NQ Hộ Kinh Doanh Rửa xe N&K,10.862833,106.733192,4 cổng 60KW,78,Tam Bình,Phường
+S0254,Nhượng quyền SMEV Thanh Tuấn,10.875065,106.736389,1 cổng 7KW,2,Tam Bình,Phường
+S0255,SR MWG ĐML 1363A Tỉnh lộ 43,10.895471,106.718735,4 cổng 60KW,78,Tam Bình,Phường
+S0256,Nhượng quyền Nguyễn Đình Thế,10.841397,106.653946,1 cổng 7KW,2,Thông Tây Hội,Phường
+S0257,Nhượng quyền Tư nhân - Anh Khoa,10.844067,106.648643,1 cổng 11KW,4,Thông Tây Hội,Phường
+S0258,Nhượng quyền Tư nhân - Nguyễn Doãn Minh Tâm,10.840784,106.664124,1 cổng 11KW,4,Thông Tây Hội,Phường
+S0259,Nhượng quyền Tư nhân - Nhật Quang,10.847037,106.653374,4 cổng 60KW | 3 cổng 11KW,89,Thông Tây Hội,Phường
+S0260,Bãi đỗ xe Vinmec Central Park - Trong hầm,10.793915,106.720329,2 cổng 80KW | 6 cổng 11KW,74,Thạnh Mỹ Tây,Phường
+S0261,Nhượng quyền Trà Tinh Tú,10.80477,106.719261,1 cổng 11KW,4,Thạnh Mỹ Tây,Phường
+S0262,Vincom Center Landmark 81 - Sảnh chính,10.79518,106.722412,12 cổng 60KW,235,Thạnh Mỹ Tây,Phường
+S0263,Vinhomes Central Park 1(cửa Zone B),10.79104,106.722374,8 cổng 11KW,29,Thạnh Mỹ Tây,Phường
+S0264,Vinhomes Central Park 1- Tân Cảng,10.79157,106.722603,8 cổng 11KW,29,Thạnh Mỹ Tây,Phường
+S0265,Vinhomes Central Park 3,10.792143,106.722946,8 cổng 11KW,29,Thạnh Mỹ Tây,Phường
+S0266,Vinhomes Central Park 4 (cột A6-A9),10.792755,106.72274,8 cổng 11KW,29,Thạnh Mỹ Tây,Phường
+S0267,Vinhomes Central Park 5 ( cột B4-B6),10.793406,106.722168,8 cổng 11KW,29,Thạnh Mỹ Tây,Phường
+S0268,Vinhomes Central Park 6(cột D5-D8),10.793196,106.721397,8 cổng 11KW,29,Thạnh Mỹ Tây,Phường
+S0269,"Vinhomes Central Park, trong khu Villas",10.795261,106.724297,6 cổng 11KW,22,Thạnh Mỹ Tây,Phường
+S0270,Vinhomes Landmark 81 - Hầm,10.794848,106.722038,2 cổng 60KW | 2 cổng 30KW | 4 cổng 11KW,73,Thạnh Mỹ Tây,Phường
+S0271,Bãi đỗ xe 24E – Thạnh Xuân,10.883036,106.67392,2 cổng 60KW | 5 cổng 11KW,57,Thới An,Phường
+S0272,Bãi đỗ xe 437 Hà Huy Giáp,10.86955,106.676712,6 cổng 60KW | 4 cổng 11KW,132,Thới An,Phường
+S0273,Bãi đỗ xe Bờm Auto,10.86618,106.671646,2 cổng 60KW | 3 cổng 11KW,50,Thới An,Phường
+S0274,Bãi đỗ xe Diệu Phát,10.890733,106.647621,2 cổng 60KW | 2 cổng 11KW,46,Thới An,Phường
+S0275,Bãi đỗ xe tư nhân Nhân Phát,10.886457,106.679047,10 cổng 80KW | 2 cổng 11KW,268,Thới An,Phường
+S0276,Bãi đỗ xe tư nhân Tô Ngọc Vân,10.863815,106.673096,4 cổng 60KW,78,Thới An,Phường
+S0277,NQ Phạm Thế Hiển,10.866461,106.649765,8 cổng 120KW | 12 cổng 60KW,549,Thới An,Phường
+S0278,Nhượng Quyền TN Trần Quốc Mậu,10.878722,106.649612,1 cổng 7KW,2,Thới An,Phường
+S0279,Nhượng quyền Cty SJK,10.866525,106.670647,1 cổng 20KW | 1 cổng 11KW,10,Thới An,Phường
+S0280,Nhượng quyền SMEV Anh Vũ,10.865622,106.666771,1 cổng 11KW,4,Thới An,Phường
+S0281,Nhượng quyền Trần Ngọc Tiến,10.862327,106.658157,1 cổng 11KW,4,Thới An,Phường
+S0282,Nhượng quyền Vũ Thị Hòa,10.863866,106.662399,1 cổng 11KW,4,Thới An,Phường
+S0283,Bãi đỗ xe Anh Sơn,10.845673,106.75412,4 cổng 60KW | 6 cổng 11KW,100,Thủ Đức,Phường
+S0284,Bãi đỗ xe Eco City - Trường Thọ,10.838776,106.752068,4 cổng 60KW,78,Thủ Đức,Phường
+S0285,Bãi đỗ xe Linh Đông,10.852205,106.748421,4 cổng 60KW,78,Thủ Đức,Phường
+S0286,Cửa hàng xăng dầu PVOIL Bình Thọ,10.83837,106.766899,4 cổng 60KW,78,Thủ Đức,Phường
+S0287,Cửa hàng xăng dầu PVOIL TI Số 01,10.846911,106.751678,2 cổng 120KW,78,Thủ Đức,Phường
+S0288,NHƯỢNG QUYỀN CÔNG TY TNHH ECO SUPPORT,10.848053,106.74942,2 cổng 60KW,39,Thủ Đức,Phường
+S0289,NQ Tư Nhân SMEV Lê Dân,10.857213,106.746971,1 cổng 11KW,4,Thủ Đức,Phường
+S0290,Nhượng quyền Auto66.vn Chuyên độ xe điện,10.83361,106.762466,2 cổng 11KW,7,Thủ Đức,Phường
+S0291,Nhượng quyền Luxury - Công ty Eco City,10.838776,106.752068,2 cổng 120KW,78,Thủ Đức,Phường
+S0292,Nhượng quyền Phan Duy Quang,10.848502,106.756325,1 cổng 7KW,2,Thủ Đức,Phường
+S0293,Nhượng quyền STD Lý Thanh Hưng,10.852649,106.755119,1 cổng 11KW,4,Thủ Đức,Phường
+S0294,Nhượng quyền TXTX - Hoàng Ngọc Hải,10.836442,106.763176,2 cổng 11KW,7,Thủ Đức,Phường
+S0295,Nhượng quyền Trần Quang Thao,10.85555,106.764809,1 cổng 11KW,4,Thủ Đức,Phường
+S0296,Nhượng quyền tư nhân Lê Công Nhật,10.837036,106.7584,1 cổng 11KW,4,Thủ Đức,Phường
+S0297,SR MWG ĐML 2D Đường Số 39,10.845483,106.750023,2 cổng 60KW,39,Thủ Đức,Phường
+S0298,Vincom Plaza Thủ Đức - Hầm B1,10.850494,106.765373,4 cổng 60KW | 2 cổng 30KW | 2 cổng 11KW,105,Thủ Đức,Phường
+S0299,"Vincom Plaza Thủ Đức, hầm B1",10.850506,106.76545,8 cổng 60KW,157,Thủ Đức,Phường
+S0300,Bãi đỗ xe Tâm Phúc,10.8734,106.622101,2 cổng 60KW,39,Trung Mỹ Tây,Phường
+S0301,Bãi đỗ xe tư nhân Thùy Trang,10.869342,106.619659,2 cổng 60KW | 1 cổng 11KW,43,Trung Mỹ Tây,Phường
+S0302,Nhượng quyền Nguyễn Thế Hiển,10.868924,106.624229,1 cổng 11KW,4,Trung Mỹ Tây,Phường
+S0303,Nhượng quyền SMEV Đức Trịnh,10.87055,106.627106,1 cổng 11KW,4,Trung Mỹ Tây,Phường
+S0304,Nhượng quyền cá nhân - SMEV Trần Hoàn,10.862773,106.621315,1 cổng 11KW,4,Trung Mỹ Tây,Phường
+S0305,Nhượng quyền Cty Việt Phú Mỹ,10.804144,106.645576,1 cổng 11KW,4,Tân Bình,Phường
+S0306,Nhượng quyền Nguyễn Giang Hùng,10.799576,106.646584,1 cổng 11KW,4,Tân Bình,Phường
+S0307,Nhượng quyền Nguyễn Đức Việt,10.807217,106.639542,1 cổng 7KW,2,Tân Bình,Phường
+S0308,Nhượng quyền Ngô Thanh Sơn,10.799829,106.642525,1 cổng 11KW,4,Tân Bình,Phường
+S0309,Chung cư Green View,10.721623,106.726906,3 cổng 11KW,11,Tân Mỹ,Phường
+S0310,NQ LUX Đỗ Văn Thái,10.704211,106.735107,4 cổng 120KW | 6 cổng 60KW,274,Tân Mỹ,Phường
+S0311,NQ Tư Nhân Đỗ Khắc Hùng,10.707202,106.727608,1 cổng 11KW,4,Tân Mỹ,Phường
+S0312,Nhượng quyền Công ty Sơn tàu Biển Sài Gòn,10.703998,106.726341,1 cổng 11KW,4,Tân Mỹ,Phường
+S0313,Nhượng quyền Phùng Hoài Nam,10.705877,106.728508,1 cổng 11KW,4,Tân Mỹ,Phường
+S0314,Nhượng quyền Việt Hùng,10.722315,106.726997,1 cổng 11KW,4,Tân Mỹ,Phường
+S0315,Trung tâm Hội nghị The Adora Premium,10.729967,106.719872,4 cổng 60KW,78,Tân Mỹ,Phường
+S0316,Bãi đỗ xe Vận Tải Hòa Bình,10.768224,106.633369,6 cổng 60KW | 4 cổng 11KW,132,Tân Phú,Phường
+S0317,Chung cư Rubyland,10.763589,106.633598,1 cổng 30KW | 1 cổng 11KW,13,Tân Phú,Phường
+S0318,Bãi đỗ xe Thiên Hải Auto,10.8259,106.633102,2 cổng 30KW | 2 cổng 11KW,27,Tân Sơn,Phường
+S0319,NQ Tư Nhân Nguyễn Xuân Bắc,10.825003,106.640228,1 cổng 11KW,4,Tân Sơn,Phường
+S0320,Showroom 3S Đông Sài Gòn - Chi nhánh Trường Chinh,10.808394,106.634727,4 cổng 60KW,78,Tân Sơn,Phường
+S0321,Nhượng quyền Lê Thị Kim Thu,10.807771,106.669525,1 cổng 11KW,4,Tân Sơn Hòa,Phường
+S0322,Bãi đỗ xe Auto Tuấn Phong,10.803176,106.622894,2 cổng 60KW | 2 cổng 11KW,46,Tân Sơn Nhì,Phường
+S0323,Nhượng quyền - Công ty cổ phần dệt Đông Nam,10.794397,106.638458,12 cổng 120KW,470,Tân Sơn Nhì,Phường
+S0324,Chung cư Republic Plaza,10.802536,106.655121,3 cổng 11KW,11,Tân Sơn Nhất,Phường
+S0325,Trung tâm Hội nghị The Adora Center,10.798087,106.659477,4 cổng 60KW,78,Tân Sơn Nhất,Phường
+S0326,Vincom Plaza Cộng Hòa,10.80076,106.658463,1 cổng 250KW | 28 cổng 60KW,630,Tân Sơn Nhất,Phường
+S0327,Chung cư Eco Green HR1,10.748183,106.723282,3 cổng 11KW,11,Tân Thuận,Phường
+S0328,Chung cư Eco Green HR2,10.747652,106.723106,3 cổng 11KW,11,Tân Thuận,Phường
+S0329,Nhượng Quyền Tư Nhân Mr Dương,10.747611,106.735138,1 cổng 11KW,4,Tân Thuận,Phường
+S0330,Nhượng quyền SMEV Hồng Quân,10.749325,106.735832,1 cổng 11KW,4,Tân Thuận,Phường
+S0331,Nhượng quyền Thạch Trang,10.74762,106.733749,1 cổng 11KW,4,Tân Thuận,Phường
+S0332,Vincom+ Nam Long,10.743723,106.732834,2 cổng 250KW | 4 cổng 120KW,320,Tân Thuận,Phường
+S0333,Bãi đỗ xe Chung cư Hiệp Thành,10.879977,106.648712,4 cổng 60KW | 2 cổng 11KW,86,Tân Thới Hiệp,Phường
+S0334,Bãi đỗ xe Tân Thới Hiệp,10.859831,106.632385,6 cổng 60KW | 4 cổng 11KW,132,Tân Thới Hiệp,Phường
+S0335,Nhượng Quyền TN Trần An,10.881205,106.634315,1 cổng 11KW,4,Tân Thới Hiệp,Phường
+S0336,Nhượng Quyền Tư Nhân Đỗ Văn Quang,10.863138,106.636696,1 cổng 11KW,4,Tân Thới Hiệp,Phường
+S0337,Nhượng quyền Huỳnh Ngọc Lâm,10.870699,106.64624,1 cổng 11KW,4,Tân Thới Hiệp,Phường
+S0338,Nhượng quyền SMEV Minh Tùng,10.879962,106.635231,1 cổng 11KW,4,Tân Thới Hiệp,Phường
+S0339,TXTX Platform Bùi Văn Sơn,10.8641,106.646698,1 cổng 7KW,2,Tân Thới Hiệp,Phường
+S0340,Bãi đỗ xe 1017 Tỉnh lộ 10,10.754601,106.601578,18 cổng 60KW | 7 cổng 11KW,378,Tân Tạo,Phường
+S0341,Bãi đỗ xe Chú Hùng,10.73861,106.580231,2 cổng 60KW | 5 cổng 11KW,57,Tân Tạo,Phường
+S0342,Bãi đỗ xe Thiên Ân,10.751203,106.577118,6 cổng 60KW | 4 cổng 11KW,132,Tân Tạo,Phường
+S0343,Bãi đỗ xe tư nhân ISTC 01,10.745958,106.582642,14 cổng 60KW | 6 cổng 11KW,296,Tân Tạo,Phường
+S0344,Bãi đỗ xe tư nhân Minh Quân,10.7557,106.606003,4 cổng 60KW | 4 cổng 11KW,93,Tân Tạo,Phường
+S0345,Bãi đỗ xe tư nhân Thiên Ân 9,10.72693,106.598473,30 cổng 60KW | 10 cổng 11KW,624,Tân Tạo,Phường
+S0346,Bãi đỗ xe tư nhân Đường số 57,10.754082,106.595406,4 cổng 60KW,78,Tân Tạo,Phường
+S0347,Chung cư Thái Sơn Nhất Lan 3,10.752909,106.591766,3 cổng 11KW,11,Tân Tạo,Phường
+S0348,Nhượng quyền - Công ty Sam Co,10.759311,106.59211,16 cổng 60KW,313,Tân Tạo,Phường
+S0349,Nhượng quyền - Thiên Ân 9,10.727911,106.599113,4 cổng 60KW,78,Tân Tạo,Phường
+S0350,Nhượng quyền Luxury - Hộ kinh doanh Trịnh Đăng Mạnh,10.752279,106.605324,2 cổng 120KW | 2 cổng 60KW,118,Tân Tạo,Phường
+S0351,Nhượng quyền SMEV Duy Khanh,10.793882,106.686882,1 cổng 11KW,4,Tân Định,Phường
+S0352,NQ Tư Nhân SMEV Thái Hòa,10.810137,106.624725,1 cổng 11KW,4,Tây Thạnh,Phường
+S0353,Nhượng quyền SMEV Thành Thuận,10.814959,106.627174,1 cổng 11KW,4,Tây Thạnh,Phường
+S0354,TTTM Co.op Mart Thắng Lợi,10.818296,106.630898,4 cổng 120KW,157,Tây Thạnh,Phường
+S0355,Bãi đỗ xe 26C Phan Chu Trinh,10.84074,106.773338,2 cổng 11KW,7,Tăng Nhơn Phú,Phường
+S0356,Bãi đỗ xe Anh Quốc,10.836123,106.780586,2 cổng 60KW | 4 cổng 11KW,54,Tăng Nhơn Phú,Phường
+S0357,Bãi đỗ xe Trạm xe dịch vụ Bệnh viện Ung Bướu,10.869331,106.813606,16 cổng 60KW | 9 cổng 11KW,346,Tăng Nhơn Phú,Phường
+S0358,Bãi đỗ xe tư nhân Tăng Nhơn Phú,10.839445,106.778191,8 cổng 60KW | 2 cổng 11KW,164,Tăng Nhơn Phú,Phường
+S0359,NQ Tư Nhân Nguyễn Viết Cường,10.828255,106.782639,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0360,NQ VIP Tấn Đạt,10.845722,106.779556,12 cổng 120KW,470,Tăng Nhơn Phú,Phường
+S0361,Nhượng quyền Hoàng Duy,10.843639,106.774811,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0362,Nhượng quyền Luxury - Công ty Hùng Sơn,10.847164,106.773163,2 cổng 120KW,78,Tăng Nhơn Phú,Phường
+S0363,Nhượng quyền SMEV Thành Quang,10.853915,106.814667,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0364,Nhượng quyền Tư nhân - Nguyễn Minh Tuấn,10.846014,106.816452,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0365,Nhượng quyền Tư nhân - Nguyễn Đức Anh,10.863148,106.800865,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0366,Nhượng quyền tư nhân SMEV Tiến Hùng,10.868995,106.806572,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0367,Nhượng quyền Đoàn Trần Hùng,10.846618,106.815445,1 cổng 11KW,4,Tăng Nhơn Phú,Phường
+S0368,Vincom Plaza Lê Văn Việt - Trong hầm,10.845638,106.778877,2 cổng 30KW | 2 cổng 11KW,27,Tăng Nhơn Phú,Phường
+S0369,"Vincom Plaza Lê Văn Việt, phía sau TTTM",10.844093,106.778297,6 cổng 60KW,118,Tăng Nhơn Phú,Phường
+S0370,Vincom Plaza Lê Văn Việt-Trước sảnh TTTM,10.845562,106.779205,12 cổng 60KW,235,Tăng Nhơn Phú,Phường
+S0371,Bãi đỗ xe La Vela Saigon Hotel,10.78867,106.685471,2 cổng 150KW,98,Xuân Hòa,Phường
+S0372,Chung cư Léman Luxury,10.777943,106.689789,3 cổng 11KW,11,Xuân Hòa,Phường
+S0373,Bãi đỗ xe S778 Nguyễn Văn Quá,10.846187,106.633636,4 cổng 60KW | 4 cổng 11KW,93,Đông Hưng Thuận,Phường
+S0374,Bãi đỗ xe Tân Thới Nhất 5,10.839004,106.612701,18 cổng 80KW | 8 cổng 11KW,499,Đông Hưng Thuận,Phường
+S0375,Bãi đỗ xe tư nhân C3,10.822266,106.62355,6 cổng 60KW | 2 cổng 11KW,125,Đông Hưng Thuận,Phường
+S0376,Nhượng quyền Phạm Văn Hoằng,10.85398,106.639671,1 cổng 11KW,4,Đông Hưng Thuận,Phường
+S0377,Nhượng quyền R&B 202B Hoàng Văn Thụ,10.800171,106.669601,2 cổng 300KW | 10 cổng 150KW,686,Đức Nhuận,Phường

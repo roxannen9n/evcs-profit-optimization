@@ -1,0 +1,30 @@
+{
+  "service_radius_km": 1.0,
+  "charging_price_vnd_per_kwh": 5000,
+  "electricity_price_vnd_per_kwh": 3350,
+  "energy_kwh_per_session": 24.5,
+  "occupied_hours_per_day": 8,
+  "land_area_m2_per_port": 20,
+  "annual_land_rent_fraction": 0.03,
+  "land_price_vnd_multiplier": 1000000,
+  "installation_lifetime_years": 10,
+  "days_per_year": 365,
+  "power_levels_kw": [
+    20,
+    30,
+    60,
+    120
+  ],
+  "port_counts": [
+    3,
+    5,
+    7,
+    9
+  ],
+  "installation_vnd_per_port": {
+    "20": 100000000,
+    "30": 143000000,
+    "60": 278000000,
+    "120": 416000000
+  }
+}
