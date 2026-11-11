@@ -46,7 +46,7 @@ PuLP builds the model and the open-source HiGHS solver solves it. No commercial 
 
 The default solver relative gap is 0.05%; the report also gives the gap relative to incremental profit, accounting for the objective's baseline constant. For a stricter solve, use `python run_model.py --relative-gap 0 --time-limit 3600`.
 
-Regenerate the saved reference figures with `python plot_results.py`. Automated checks in GitHub Actions run the small model tests and reproduce the full reference result.
+Automated checks in GitHub Actions run the small model tests and reproduce the full reference result.
 
 ## Main results
 
@@ -65,8 +65,14 @@ The expansion increases modeled demand coverage from **37.8% to 58.0%**. HiGHS c
 
 The four small tests cover profitable expansion, the do-nothing option, inaccessible demand and distance units. A separate export audit checks input hashes, site decisions, eligibility, capacities, demand balances and daily profit.
 
-![Selected stations in the reference scenario](results/reference/selected_stations.png)
+## Original study maps
 
-![Modeled coverage and incremental profit](results/reference/coverage_and_profit.png)
+These original figures are preserved from the district-level pilot study. They illustrate the pilot geography and selections; the numerical results above use the packaged HCMC-wide inputs.
+
+![Original pilot: existing stations and candidate sites](docs/figures/existing-vs-candidate.png)
+
+![Original pilot: existing and selected stations](docs/figures/existing-vs-selected.png)
+
+![Original pilot: demand zones heatmap](docs/figures/demand-zones-heatmap.png)
 
 Results are scenario estimates under a 1 km geometric service radius, eight occupied charging hours/day and a 3% assumed annual land-rental fraction. All economic terms use VND/day; cost conversions and model assumptions are described in [MODEL.md](MODEL.md).
