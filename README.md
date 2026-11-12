@@ -13,40 +13,6 @@ The main decisions and constraints are:
 - Keep allocated demand within each station's daily charging capacity.
 - Serve each zone's estimated demand or count it as unserved.
 
-Profit uses revenue from **additional demand served above the existing-network baseline**, less fixed daily costs and electricity used at new stations. It does not count all new-station service as additional network revenue. See [MODEL.md](MODEL.md) for the formulation and accounting conventions.
-
-## Data
-
-This repository includes the **processed optimization inputs**, rather than raw geographic archives:
-
-| File | Content |
-|---|---|
-| `data/candidates.csv` | 997 candidate sites, coordinates and processed land-price coefficients |
-| `data/demand_zones.csv` | 7,848 H3 demand zones, population and estimated charging demand |
-| `data/existing_stations.csv` | 378 mapped existing stations with estimated daily capacities |
-| `data/parameters.json` | Charging prices, capacity assumptions and cost conversions |
-| `data/provenance.json` | Original filenames, row counts, transformations and source checksums |
-
-The compact release reproduces the optimization stage from processed GIS inputs. See [DATA_SOURCES.md](DATA_SOURCES.md) for a brief description of the data preparation.
-
-## Run
-
-Python 3.11 or newer is required; the reference environment uses Python 3.12. From the repository folder:
-
-```bash
-python -m venv .venv
-# Activate .venv with the command appropriate for your operating system.
-python -m pip install -r requirements.txt
-python run_model.py --verify-reference
-python -m unittest discover -s tests -v
-python audit_results.py --results-dir results/reproduced
-```
-
-PuLP builds the model and the open-source HiGHS solver solves it. No commercial solver license or GIS download is required. The script writes `results/reproduced/` with a summary, selected sites, station–zone allocations, demand balances, parameters, solver log and input checksums. `--verify-reference` checks the existing-network baseline, profit within 0.5% of the saved result and a certified profit gap of at most 0.5%. Selected sites and allocations can differ between solutions.
-
-The default solver relative gap is 0.05%; the report also gives the gap relative to incremental profit, accounting for the objective's baseline constant. For a stricter solve, use `python run_model.py --relative-gap 0 --time-limit 3600`.
-
-Automated checks in GitHub Actions run the small model tests and reproduce the full reference result.
 
 ## Main results
 
@@ -62,8 +28,6 @@ Automated checks in GitHub Actions run the small model tests and reproduce the f
 | **Incremental network profit** | **119.77 million VND/day** |
 
 The expansion increases modeled demand coverage from **37.8% to 58.0%**. HiGHS certifies an upper bound of 120.29 million VND/day, placing the reference profit within **0.44% of the global optimum** under these assumptions. The saved solve took about 13 seconds on the reference machine; runtime depends on hardware.
-
-The four small tests cover profitable expansion, the do-nothing option, inaccessible demand and distance units. A separate export audit checks input hashes, site decisions, eligibility, capacities, demand balances and daily profit.
 
 ## Original study maps
 
