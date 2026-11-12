@@ -3,7 +3,7 @@
 Let I be candidate sites, E existing stations, J demand zones and K the Cartesian product of charger powers and port counts. Eligible pairs Aᶜ and Aᵉ have great-circle distance at most 1 km. Demand Dⱼ and flow are continuous expected charging sessions/day.
 
 - xᵢₖ ∈ {0,1}: install configuration k at site i.
-- fᵢⱼ ≥ 0 and gₑⱼ ≥ 0: sessions/day served by new and existing stations.
+- fᵢⱼ ≥ 0 and gₑⱼ ≥ 0: sessions/day served by new and existing stations. 
 - uⱼ ≥ 0: unserved demand.
 
 First maximize existing-only served demand under the same eligibility and capacity constraints. Let B be this optimum and U⁰ = ΣDⱼ − B. The packaged input's historical `covered_demand` and `uncovered_demand` columns are retained for provenance but are not used to fix allocations or define the baseline.
