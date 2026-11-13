@@ -6,7 +6,7 @@ This project uses mixed-integer linear programming (MILP) to select locations an
 
 Demand zones are linked to candidate and existing stations within a 1 km great-circle radius. An existing-only allocation model first calculates baseline coverage. The MILP then selects new stations and reallocates demand across the expanded network.
 
-The main decisions and constraints are:
+The main decisions and constraints are: 
 
 - Select a charger configuration at a candidate site or leave it unselected.
 - Install at most one configuration per site, choosing among 16 power/port combinations.
