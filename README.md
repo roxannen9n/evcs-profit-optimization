@@ -29,9 +29,7 @@ The main decisions and constraints are:
 
 The expansion increases modeled demand coverage from **37.8% to 58.0%**. HiGHS certifies an upper bound of 120.29 million VND/day, placing the reference profit within **0.44% of the global optimum** under these assumptions. The saved solve took about 13 seconds on the reference machine; runtime depends on hardware.
 
-## Original study maps
-
-These original figures are preserved from the district-level pilot study. They illustrate the pilot geography and selections; the numerical results above use the packaged HCMC-wide inputs.
+## Maps of results
 
 ![Original pilot: existing stations and candidate sites](docs/figures/existing-vs-candidate.png)
 
@@ -39,4 +37,3 @@ These original figures are preserved from the district-level pilot study. They i
 
 ![Original pilot: demand zones heatmap](docs/figures/demand-zones-heatmap.png)
 
-Results are scenario estimates under a 1 km geometric service radius, eight occupied charging hours/day and a 3% assumed annual land-rental fraction. All economic terms use VND/day; cost conversions and model assumptions are described in [MODEL.md](MODEL.md).
