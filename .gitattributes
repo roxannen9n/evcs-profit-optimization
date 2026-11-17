@@ -1,0 +1,4 @@
+# Preserve the original source and input bytes across platforms.
+/env.py -text
+/MILP.py -text
+/Data/*.csv -text
