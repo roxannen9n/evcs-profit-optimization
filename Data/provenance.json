@@ -1,0 +1,31 @@
+{
+  "source_archive": "Data.zip (2026-09-21)",
+  "selection": "Root Data/ entries retained together; main file/ is an alternate snapshot.",
+  "selected_wards": [
+    "Sài Gòn",
+    "Tân Định",
+    "Bến Thành",
+    "Cầu Ông Lãnh",
+    "An Khánh",
+    "Bàn Cờ",
+    "Xuân Hòa",
+    "Nhiêu Lộc",
+    "Xóm Chiếu",
+    "Khánh Hội",
+    "Vĩnh Hội"
+  ],
+  "files": {
+    "candidate_pois_with_land_cost.csv": {
+      "archive_entry": "Data/candidate_pois_with_land_cost.csv",
+      "sha256": "93534aec6049fd6c2577050475e86be91d703c6e53d0179b4d51161fcf1f1af6"
+    },
+    "demand_zones_covered_uncovered.csv": {
+      "archive_entry": "Data/demand_zones_covered_uncovered.csv",
+      "sha256": "f698e666b5f72a61f8487cda7d6db48519f349cc362f18b4d9791a9eff8078a8"
+    },
+    "existing_evcs_hcmc.csv": {
+      "archive_entry": "Data/existing_evcs_hcmc.csv",
+      "sha256": "1b13e2bc40ba4ad5acf61942377848d163ab0a00d7b9ddf395aa2e5f91979f78"
+    }
+  }
+}

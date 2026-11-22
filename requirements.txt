@@ -1,8 +1,8 @@
 numpy
 pandas
 geopandas
-torch
 gymnasium
 networkx
-PuLP[cbc]
+PuLP==3.3.0
+matplotlib
 openpyxl

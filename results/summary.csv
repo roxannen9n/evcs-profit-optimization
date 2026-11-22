@@ -1,0 +1,2 @@
+solver_status,objective_value,initial_uncovered,final_uncovered,additional_covered,additional_coverage_ratio,number_new_evcs,runtime_seconds,runtime_minutes
+Optimal,6103837.260010604,151,0,151,1,7,0.3186180999036878,0.005310301665061464

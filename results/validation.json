@@ -1,0 +1,8 @@
+{
+  "candidates": 402,
+  "demand_zones": 36,
+  "existing_stations": 24,
+  "baseline_max_flow": 107.0,
+  "total_demand": 258.0,
+  "checks": "Input completeness, demand balance, baseline maximum flow, optimal solver status, unique selected sites, selected capacity and final demand balance passed."
+}

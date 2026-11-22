@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import geopandas as gpd
-import torch
 import os
 from pathlib import Path
 import gymnasium as gym
